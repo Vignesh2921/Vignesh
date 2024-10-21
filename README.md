@@ -1,3 +1,3 @@
 # Vignesh
 Frist project on git.
-Author - VigneshHarshini
+Author - VignesH
